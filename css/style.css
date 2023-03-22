@@ -34,3 +34,8 @@ h1{
     border-radius: 2px;
     text-decoration: none;
 }
+
+p{
+    font-size: 24px;
+    margin-inline-start: 450px;
+}
